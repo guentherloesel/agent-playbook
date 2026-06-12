@@ -13,6 +13,12 @@ project directly.
 - `snippets/`: Small instruction blocks that can be copied into app settings,
   `AGENTS.md`, or skills.
 
+## Snippets
+
+- `snippets/git-commit-policy.md`: Git staging and commit approval rules.
+- `snippets/task-handoff-checklist.md`: Final review checklist before handing
+  work back to a user.
+
 ## Usage
 
 Use this repository to maintain shared guidance, then place concrete instructions
