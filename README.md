@@ -15,6 +15,8 @@ project directly.
 
 ## Snippets
 
+- `snippets/feature-branch-workflow.md`: Branch setup rules for new feature
+  work.
 - `snippets/git-commit-policy.md`: Git staging and commit approval rules.
 - `snippets/task-handoff-checklist.md`: Final review checklist before handing
   work back to a user.
